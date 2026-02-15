@@ -6,19 +6,10 @@ import {
   Mail, 
   Phone, 
   Globe, 
-  Search,
-  ChevronRight,
   ArrowRight,
-  Target,
-  Zap,
-  Users,
-  Briefcase,
   GraduationCap,
   Award,
-  ShieldCheck,
-  Building2,
-  Scale,
-  PlaneTakeoff
+  Scale
 } from 'lucide-react';
 
 /** 
